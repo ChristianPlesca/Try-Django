@@ -27,7 +27,7 @@ SECRET_KEY = '7f2=_7q22t&m4t1*=q&)tfaa#bc3ncs9tea_61bm0wsu6r%jvb'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
-                'https://try-django-app.herokuapp.com']
+                'try-django-app.herokuapp.com']
 
 
 # Application definition
